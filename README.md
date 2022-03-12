@@ -23,4 +23,4 @@ findings have the ability to inform fire management and improve fire management
 strategies.
 
 # Acknowledgements
-I did this project with my partner, Danica Kubota. If you're reading this—hi! If you're not Danica...hello anyway!
+I did this project with my partner, Danica Kubota.
