@@ -191,7 +191,7 @@ actions_per_state = 10  # each action is one firebreak placed down
 exp_replay_frames = 100  # 500
 
 # Step 1: Experience Replay
-for state in range(77, exp_replay_frames):
+for state in range(exp_replay_frames):
    os.system(r"copy C:\Users\PHSTech\Desktop\Datasets\TestData.tif C:\Users\PHSTech\Desktop\Datasets\curr_state.tif")
    q_table = pd.DataFrame()
    clear_state()
